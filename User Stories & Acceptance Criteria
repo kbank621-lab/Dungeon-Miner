@@ -1,0 +1,36 @@
+# **🎯 User Stories & Acceptance Criteria**
+
+## **User Story 1**
+
+As a new player, I want to mine blocks, so that I can get materials and make better equipment.
+
+**Acceptance Criteria 1:** The player can break blocks with their pickaxe and collect the materials.
+
+**Acceptance Criteria 2:** The game shows the materials being added to the player's inventory.
+
+---
+
+## **User Story 2**
+
+As a player, I want to fight monsters, so that I can survive while exploring the dungeon.
+
+**Acceptance Criteria 1:** The player can attack monsters with their weapon.
+
+**Acceptance Criteria 2:** The game shows the monster losing health when it gets attacked.
+
+---
+
+## **User Story 3**
+
+As an experienced player, I want to explore deeper levels, so that I can find better items and fight stronger enemies.
+
+**Acceptance Criteria 1:** The player can enter deeper areas after completing the requirements for the level.
+
+**Acceptance Criteria 2:** The game shows stronger enemies and better materials in deeper areas.
+
+---
+
+## **🎮 Game Designer's Reflection**
+
+The easiest user story to write was the mining one because mining is one of the main things you do in the game. The hardest one was probably the deeper levels because I had to think about how the player would actually unlock them. These stories will help me design my game screens because they show what the player needs to be able to do. For example, I will need an inventory screen, a health bar, and some way to show what level the player is on.
+
